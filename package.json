@@ -1,0 +1,15 @@
+{
+  "name": "verify-message-sig",
+  "version": "1.0.0",
+  "description": "Using 'bitcoinjs-message' to verify a message signature",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muradmm83@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-message": "^2.0.0"
+  }
+}
